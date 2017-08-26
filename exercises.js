@@ -1,6 +1,6 @@
 // Feynman Writing Prompts
 //
-// Callback Functions - 
+// Callback Functions - a function that is passed into another function as a parameter. the cb function is executed inside of that other function.
 //
 // Closure - is a function that is INSIDE another function and has access to the variables of the function that it is inside of.
 //
